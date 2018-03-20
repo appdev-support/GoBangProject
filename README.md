@@ -1,12 +1,8 @@
 # GoBangProject
-大华五子棋（已上架），该项目主要用到MutipeerConnectivity框架，用蓝牙或者局域网二人近场五子棋对战。
-🚫🚫🚫仅供学习参考，禁止用于商业用途🚫🚫🚫
+c35五子棋，该项目主要用到MutipeerConnectivity框架，用蓝牙或者局域网二人近场五子棋对战。
 
 ### 一.项目介绍
-#### 1.地址：
-iTunes下载 ：[大华五子棋](https://itunes.apple.com/us/app/%E5%A4%A7%E5%8D%8E%E4%BA%94%E5%AD%90%E6%A3%8B/id1217483377?mt=8)
-
-github地址：[https://github.com/dadahua/GoBangProject](https://github.com/dadahua/GoBangProject)
+#### 1.
 
 优酷操作视频：[如何操作](http://v.youku.com/v_show/id_XMjY1OTk5MzMzMg==.html?from=s1.8-1-1.2&spm=a2h0k.8191407.0.0)
 
